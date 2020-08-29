@@ -1,0 +1,17 @@
+{
+  "name": "wordend",
+  "version": "1.0.0",
+  "description": "Функция возвращает слово в нужном числе.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b01110011/wordend.git"
+  },
+  "author": "b01110011",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b01110011/wordend/issues"
+  },
+  "homepage": "https://github.com/b01110011/wordend#readme"
+}
